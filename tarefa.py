@@ -1,0 +1,1 @@
+print('amo git e github -by Alex')
